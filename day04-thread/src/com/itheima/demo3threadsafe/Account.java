@@ -26,7 +26,7 @@ public class Account {
         } else {
             // 余额不足
             System.out.println(name + "取钱失败，余额不足");
-            //nihao
+            //niha
         }
     }
 }
