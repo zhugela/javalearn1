@@ -20,7 +20,6 @@ public class InetAddressDemo1 {
             System.out.println(ip2.isReachable(5000)); // false ping
         }catch (Exception e){
             e.printStackTrace();
-            //你好a
         }
     }
 }
