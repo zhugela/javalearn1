@@ -5,7 +5,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Data
-
 @AllArgsConstructor
 @NoArgsConstructor
 public class Account {
@@ -27,6 +26,7 @@ public class Account {
         } else {
             // 余额不足
             System.out.println(name + "取钱失败，余额不足");
+            //niha
         }
     }
 }
