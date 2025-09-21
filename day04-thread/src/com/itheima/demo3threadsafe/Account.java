@@ -5,7 +5,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Data
-@Al lArgsConstructor
 @NoArgsConstructor
 public class Account {
     private String cardId; // 卡号
